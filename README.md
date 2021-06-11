@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="http://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm">
-    <img src="https://raw.githubusercontent.com/umutsevdi1/Logic-Circuit-Simulator/main/icon.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/labirent_1.PNG" alt="Logo" width="80" height="80">
   </a>
   
   <h3 align="center">Wilson's Maze Generation Algorithm</h3>
@@ -58,10 +58,9 @@ Screen size and pass value  increases the hardness of the map. Also each of thes
 
 ## Screenshots
 
-
-![Screenshot 2](https://raw.githubusercontent.com/umutsevdi1/Wilson-s-Maze-Generation/main/screenshots/230wilson100.PNG)
-![Screenshot 3](https://raw.githubusercontent.com/umutsevdi1/Wilson-s-Maze-Generation/main/screenshots/labirent_1.png)
-![Screenshot 4](https://raw.githubusercontent.com/umutsevdi1/Wilson-s-Maze-Generation/main/screenshots/labirent_2.png)
+![Screenshot 2](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/230wilson100.PNG)
+![Screenshot 3](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/230wilson10.PNG)
+![Screenshot 4](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/labirent_2.PNG)
 
 
 <!-- LICENSE -->
@@ -73,7 +72,7 @@ Distributed under the  MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-* Project Link: [https://github.com/umutsevdi1/Logic-Circuit-Simulator](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm)
+* Project Link: [https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm)
 
 
 
