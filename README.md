@@ -9,8 +9,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="http://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm">
-    <img src="https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/labirent_1.PNG" alt="Logo" width="80" height="80">
+  <a href="http://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm">
+    <img src="https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/labirent_1.PNG" alt="Logo" width="80" height="80">
   </a>
   
   <h3 align="center">Wilson's Maze Generation Algorithm</h3>
@@ -58,9 +58,9 @@ Screen size and pass value  increases the hardness of the map. Also each of thes
 
 ## Screenshots
 
-![Screenshot 2](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/230wilson100.PNG)
-![Screenshot 3](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/230wilson10.PNG)
-![Screenshot 4](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/labirent_2.PNG)
+![Screenshot 2](https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/230wilson100.PNG)
+![Screenshot 3](https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/230wilson10.PNG)
+![Screenshot 4](https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm/blob/main/screenshots/labirent_2.PNG)
 
 
 <!-- LICENSE -->
@@ -72,20 +72,20 @@ Distributed under the  MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-* Project Link: [https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm](https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm)
+* Project Link: [https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm](https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/umutsevdi1/Wilson-s-Maze-Generation-Algorithm.svg?style=for-the-badge
-[forks-url]: https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/network/members
-[stars-shield]: https://img.shields.io/github/stars/umutsevdi1/Wilson-s-Maze-Generation-Algorithm.svg?style=for-the-badge
-[stars-url]: https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/stargazers
-[issues-shield]: https://img.shields.io/github/issues/umutsevdi1/Wilson-s-Maze-Generation-Algorithm.svg?style=for-the-badge
-[issues-url]: https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/issues
+[forks-shield]: https://img.shields.io/github/forks/umutsevdi/Wilson-s-Maze-Generation-Algorithm.svg?style=for-the-badge
+[forks-url]: https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm/network/members
+[stars-shield]: https://img.shields.io/github/stars/umutsevdi/Wilson-s-Maze-Generation-Algorithm.svg?style=for-the-badge
+[stars-url]: https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm/stargazers
+[issues-shield]: https://img.shields.io/github/issues/umutsevdi/Wilson-s-Maze-Generation-Algorithm.svg?style=for-the-badge
+[issues-url]: https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm/issues
 [license-shield]:  https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/umutsevdi1/Wilson-s-Maze-Generation-Algorithm/blob/main/LICENSE
+[license-url]: https://github.com/umutsevdi/Wilson-s-Maze-Generation-Algorithm/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/umut-sevdi
 [product-screenshot]: images/screenshot.png
